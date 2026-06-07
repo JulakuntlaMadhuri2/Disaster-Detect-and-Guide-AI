@@ -1,4 +1,4 @@
-# Disaste Detect and Guide AI
+# Disaster Detect and Guide AI
 
 AI-powered disaster preparedness platform using RAG and NLP providing emergency guidance, alert summarization, and multilingual support. 
 
